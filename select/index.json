@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Home Sweet Home",
+  "base_artist": "Neko Hacker",
+  "createdAt": "2026-02-24T17:02:15.221788Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Home Sweet Home",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/01_Home_Sweet_Home_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Home Sweet Home",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/02_Home_Sweet_Home_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Home Sweet Home",
+      "artist": "Dr. Alban",
+      "has_synced": false,
+      "path": "select/03_Home_Sweet_Home_Dr._Alban.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Home Sweet Home",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/04_Home_Sweet_Home_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Home Sweet Home (’91 remix)",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/05_Home_Sweet_Home_(’91_remix)_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Home Sweet Home",
+      "artist": "Peter Gabriel",
+      "has_synced": false,
+      "path": "select/06_Home_Sweet_Home_Peter_Gabriel.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Home Sweet Home",
+      "artist": "Peter Gabriel (SACD 2003 Remaster)",
+      "has_synced": false,
+      "path": "select/07_Home_Sweet_Home_Peter_Gabriel_(SACD_2003_Remaster).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Home Sweet Home",
+      "artist": "Smif-n-Wessun",
+      "has_synced": true,
+      "path": "select/08_Home_Sweet_Home_Smif-n-Wessun.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Home Sweet Home",
+      "artist": "Neko Hacker feat. KMNZ LIZ",
+      "has_synced": true,
+      "path": "select/09_Home_Sweet_Home_Neko_Hacker_feat._KMNZ_LIZ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Home Sweet Home (feat. KMNZ LIZ)",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/10_Home_Sweet_Home_(feat._KMNZ_LIZ)_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Home Sweet Home",
+      "artist": "Montley Crue",
+      "has_synced": true,
+      "path": "select/11_Home_Sweet_Home_Montley_Crue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Home Sweet Home",
+      "artist": "Neko Hacker, KMNZ LIZ",
+      "has_synced": false,
+      "path": "select/pl_01_Home_Sweet_Home_Neko_Hacker,_KMNZ_LIZ.txt"
+    }
+  ]
+}
